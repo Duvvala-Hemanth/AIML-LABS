@@ -6,3 +6,6 @@
 
 
 [lab_03](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/Lab03.ipynb)
+
+
+[lab_04](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/Lab04.ipynb)
