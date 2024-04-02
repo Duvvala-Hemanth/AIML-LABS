@@ -19,3 +19,5 @@
 [lab_07](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/Lab_07.ipynb)
 
 [lab_08](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/Lab_08.ipynb)
+
+[lab_09](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/Lab_09.ipynb)
