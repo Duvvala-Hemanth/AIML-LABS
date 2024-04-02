@@ -12,3 +12,6 @@
 
 
 [lab_05](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/Lab05.ipynb)
+
+
+[lab_06](https://github.com/Duvvala-Hemanth/AIML-LABS/blob/main/LAB06.ipynb)
